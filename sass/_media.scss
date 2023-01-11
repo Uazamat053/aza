@@ -1,0 +1,49 @@
+@media(max-width:992px){
+}
+@media(max-width:768px){
+    .top input{
+    
+        height: 50px;
+        width: 400px;
+        font-size: 17px;
+        padding-left: 10px;
+    
+    }
+}
+    @media(max-width:576px){
+.logo {
+    display: flex;
+ flex-wrap: wrap;
+}
+.box {
+    width:350px;
+
+}
+ .top input{
+    
+    height: 50px;
+    width: 350px;
+    font-size: 17px;
+    padding-left: 10px;
+
+}
+
+
+}
+@media(max-width:360px){
+    .logo {
+        display: flex;
+     flex-wrap: wrap;
+    }
+    .top input{
+        height: 50px;
+        width: 250px;
+        font-size: 17px;
+        padding-left: 10px;
+    
+    }
+    .box {
+        width:250px;
+    
+    }
+}
